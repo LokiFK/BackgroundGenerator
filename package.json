@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LokiFK/BackgroundGenerator/issues"
   },
-  "homepage": "https://github.com/LokiFK/BackgroundGenerator#readme"
+  "homepage": "https://github.com/LokiFK/BackgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
